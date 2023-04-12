@@ -1,5 +1,5 @@
 # Blogging-API
-This is a bogging backend application.
+This is a blogging backend application.
 
 # Built with
 - Java

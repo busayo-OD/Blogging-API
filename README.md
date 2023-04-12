@@ -9,5 +9,5 @@ This is a blogging backend application. It allows users create blogs, manage the
 - Database: MySQL
 - API Documentation: Postman and Swagger UI
 - SQL Viewer or GUI: Beekeeper Studio or MySQL Workbench
-- IDE: IntelliJ or VS Code
+- IDE: IntelliJ, Eclipse or Spring Tool Suite
 - Lombok

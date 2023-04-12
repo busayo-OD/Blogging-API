@@ -11,3 +11,7 @@ This is a blogging backend application. It allows users create blogs, manage the
 - SQL Viewer or GUI: Beekeeper Studio or MySQL Workbench
 - IDE: IntelliJ, Eclipse or Spring Tool Suite
 - Lombok
+
+## How to start the app
+
+You should be able to start the example application by executing com.springboot.blog, which starts a webserver on port 8080 (http://localhost:8080)

@@ -5,7 +5,7 @@ This is a blogging backend application. It allows users create blogs, manage the
 ## Project Development Requirement
 
 - Programming Language: Java
-- Runtime JDK 11
+- Runtime JDK 17
 - Database: MySQL
 - API Documentation: Postman and Swagger UI
 - SQL Viewer or GUI: Beekeeper Studio or MySQL Workbench
